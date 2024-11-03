@@ -23,7 +23,8 @@
 </details>
 
 <!-- Links -->
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/](https://www.linkedin.com/in/brunofagundes-/))
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40">](https://www.linkedin.com/in/brunofagundes-/)
+
 
 <!-- GithubStats -->
 ![Bruno Fagundes GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Fagundes&show_icons=true&theme=gotham)
