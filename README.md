@@ -31,7 +31,9 @@
 
 <!-- Portfolio 
 ## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
+- [Simulador de Conta Bancária]([https://github.com/VariableBee/seaborn-data-visualization](https://github.com/Bruno-Fagundes/simulando-conta-bancaria))
+--> 
+<!--
 - [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
 - [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
 - [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
@@ -39,7 +41,7 @@
 -->
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" alt="Imagem">
 </p>
 
 ## 🔥 Habilidades
