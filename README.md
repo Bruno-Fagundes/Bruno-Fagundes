@@ -17,9 +17,9 @@
 <details>
   <summary>Mais sobre mim</summary>
 
-  - 💬 Tenho 21 anos, atualmente estou morando no interior de São Paulo. Tenho experiências com SQL, HTML, CSS, C++, e os que estou aprofundando conhecimentos Java e Spring Boot.
+  - Tenho 21 anos, atualmente estou morando no interior de São Paulo. Tenho experiências com SQL, HTML, CSS, C++, e os que estou aprofundando conhecimentos Java e Spring Boot.
   
-  - ⚡Adoro ler livros de ficção, sobre tecnologia e também mangás, assim como assistir filmes e praticar esportes. Acredito que a soma de nossos interesses se torna o que somos e transmitimos para as pessoas. \o/
+  - Adoro ler livros de ficção, sobre tecnologia e também mangás, assim como assistir filmes e praticar esportes. Acredito que a soma de nossos interesses se torna o que somos e transmitimos para as pessoas. \o/
 </details>
 
 <!-- Links -->
