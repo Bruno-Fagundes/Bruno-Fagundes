@@ -10,7 +10,7 @@
 
   - Estou estudando sobre Java e Spring Boot, além de outros conteúdos teóricos sobre programação.
 
-  - Estou buscando pela minha primeira opotunidade de estágio. Meu objetivo é trabalhar em uma grande empresa que eu possa realmente por a prova meus conhecimentos e ver os códigos que idealizei realmente funcionais.
+  - Estou buscando pela minha primeira oportunidade de estágio. Meu objetivo é trabalhar em uma grande empresa que eu possa realmente por a prova meus conhecimentos e ver os códigos que idealizei realmente funcionais.
 </p>
 
 <!-- Dropdown -->
